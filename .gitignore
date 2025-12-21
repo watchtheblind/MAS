@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Django
+media/
+staticfiles/
+
+# Docker
+.dockerignore  # (Opcional, algunos prefieren subirlo)
+# Sensible (MUY IMPORTANTE)
+.env
